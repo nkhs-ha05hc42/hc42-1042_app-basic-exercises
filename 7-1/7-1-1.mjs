@@ -4,3 +4,4 @@ const calc = (a) => {
     
     const result = calc(15)
     console.log(result)
+    

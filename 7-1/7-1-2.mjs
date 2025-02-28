@@ -4,3 +4,4 @@ const calc = (a) => {
     
     const result = calc("A")
     console.log(result)
+    
